@@ -36,5 +36,5 @@ public class Bill implements Serializable {
     private double chargedAmount;
 
     @Column
-    private String products;
+    private String orderDetails;
 }
